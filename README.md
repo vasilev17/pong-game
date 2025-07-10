@@ -9,5 +9,5 @@ To run the app you simply need to use git or the download button (on the right) 
 Play the game using your cursor:
 
 <p align="center">
-  <img src="https://i.ibb.co/VSFT8wM/Pong-Game.gif">
+  <img src="misc/Pong%20Gameplay.gif">
 </p>
